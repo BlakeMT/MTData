@@ -1,3 +1,8 @@
+---
+language: en
+license: cc-by-nc-sa-4.0
+
+---
 # LayoutLMv3
 
 [Microsoft Document AI](https://www.microsoft.com/en-us/research/project/document-ai/) | [GitHub](https://aka.ms/layoutlmv3)
