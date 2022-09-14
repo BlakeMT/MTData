@@ -1,6 +1,6 @@
 ---
 language: en
-license: apache-2.0
+license: mit
 
 ---
 # LayoutLMv3
@@ -19,16 +19,16 @@ Yupan Huang, Tengchao Lv, Lei Cui, Yutong Lu, Furu Wei, Preprint 2022.
 If you find LayoutLM useful in your research, please cite the following paper:
 
 ```
-@article{huang2022layoutlmv3,
-  title={LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking},
+@inproceedings{huang2022layoutlmv3,
   author={Yupan Huang and Tengchao Lv and Lei Cui and Yutong Lu and Furu Wei},
-  journal={arXiv preprint arXiv:2204.08387},
+  title={LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
   year={2022}
 }
 ```
 
 ## License
 
-The content of this project itself is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+MIT License.
 Portions of the source code are based on the [transformers](https://github.com/huggingface/transformers) project.
 [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct)
