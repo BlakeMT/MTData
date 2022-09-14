@@ -1,6 +1,6 @@
 ---
 language: en
-license: cc-by-nc-sa-4.0
+license: apache-2.0
 
 ---
 # LayoutLMv3
