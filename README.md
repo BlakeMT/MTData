@@ -12,7 +12,7 @@ license: cc-by-nc-sa-4.0
 LayoutLMv3 is a pre-trained multimodal Transformer for Document AI with unified text and image masking. The simple unified architecture and training objectives make LayoutLMv3 a general-purpose pre-trained model. For example, LayoutLMv3 can be fine-tuned for both text-centric tasks, including form understanding, receipt understanding, and document visual question answering, and image-centric tasks such as document image classification and document layout analysis.
 
 [LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](https://arxiv.org/abs/2204.08387)
-Yupan Huang, Tengchao Lv, Lei Cui, Yutong Lu, Furu Wei, Preprint 2022.
+Yupan Huang, Tengchao Lv, Lei Cui, Yutong Lu, Furu Wei, ACM Multimedia 2022.
 
 ## Citation
 
